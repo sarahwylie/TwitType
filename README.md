@@ -1,20 +1,20 @@
 # TwitType
 
 ## Description
-Back-end structure for a Twitter-type application using Spring Boot as the framework, 
-PostgreSQL for testing, 
-Lombok to save my fingers a workout,
-Mapstruct to map my beans (yum!),  
-and Apache Maven as the software project management and build tool. 
+Back-end structure for a Twitter-type application using Spring Boot as the framework, PostgreSQL for testing, Lombok to save my fingers a workout, Mapstruct to map my beans (yum!), and Apache Maven as the software project management and build tool. 
 
 ## Table of Contents
 * [Usage](#usage)
+* [Output](#Output)
 * [Tests](#tests)
 * [Badges](#badges)
 * [Queries](#any-questions)
 
 ## Usage
 This project stands alone as a back-end only framework. Could I build a front-end? Absolutely! I'm choosing not to, however, so my Java can shine without being clouded over by React or JavaScript or something... 
+
+## Output
+![Schema](https://user-images.githubusercontent.com/90208612/196792866-0928a94d-5481-4213-a17e-c62c3de874da.png)
 
 ## Tests
 PostgreSQL and Postman were used to test the outcomes in this project.
